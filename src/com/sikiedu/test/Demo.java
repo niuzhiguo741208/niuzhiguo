@@ -13,6 +13,6 @@ public class Demo {
         test();
     }
     private static void test(){
-        System.out.println("exec test Method11!");
+        System.out.println("exec test Method!");
     }
 }
